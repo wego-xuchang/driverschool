@@ -1,0 +1,1 @@
+使用数据库连接池c3p0，搭建邮件服务器，Redis。完成后直接放到Tomcat的webapps目录下
